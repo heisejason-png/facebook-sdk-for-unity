@@ -101,3 +101,4 @@ DEVELOPER TERMS
 - Open source Privacy Policy - https://opensource.fb.com/legal/privacy
 
 By using the Facebook SDK for Unity you agree to these terms.
+Created by Jason Scott Heise
